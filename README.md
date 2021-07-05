@@ -1,2 +1,1 @@
-# animation
-using html and css to create an animantion.
+https://sazzadsourov.github.io/animation/
